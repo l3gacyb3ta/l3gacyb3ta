@@ -15,8 +15,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Effective Interfaces In Golang](https://dev.to/willdoescode/effective-interfaces-in-golang-3l3n)
-- [How to operator overload in Rust.](https://dev.to/willdoescode/how-to-operator-overload-in-rust-33cp)
+- [Stylegan2, Machine Minds, & Science Communication](https://l3gacy.tk/posts/stylegan-machine-minds-and-scicoms/)
+- [domain name, finaly](https://l3gacy.tk/posts/domain-name-finaly/)
+- [about me](https://l3gacy.tk/aboutme/)
+- [Got this working on github pages!](https://l3gacy.tk/posts/got-this-working-on-github-pages/)
+- [ethereum & marshy, a new project!](https://l3gacy.tk/posts/ethereummarshyanewproject/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
