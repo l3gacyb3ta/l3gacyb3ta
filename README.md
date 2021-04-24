@@ -15,11 +15,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [XKCD Explainer Button](https://l3gacy.tk/projects/xkcd-button/)
 - [Stylegan2, Machine Minds, & Science Communication](https://l3gacy.tk/posts/stylegan-machine-minds-and-scicoms/)
 - [domain name, finaly](https://l3gacy.tk/posts/domain-name-finaly/)
 - [about me](https://l3gacy.tk/aboutme/)
 - [Got this working on github pages!](https://l3gacy.tk/posts/got-this-working-on-github-pages/)
-- [ethereum & marshy, a new project!](https://l3gacy.tk/posts/ethereummarshyanewproject/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
