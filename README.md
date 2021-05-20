@@ -15,11 +15,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Next.js + Airtable singlelink clone.](https://raleighwi.se/posts/building-a-next.js-airtable-singlelink-clone/)
 - [Forestry, a git-based CMS](https://raleighwi.se/posts/forestry-a-git-based-cms/)
 - [Annoucing Super16](https://raleighwi.se/posts/super16/)
 - [Super16](https://raleighwi.se/projects/super16/)
 - [XKCD Explainer Button](https://raleighwi.se/projects/xkcd-button/)
-- [Stylegan2, Machine Minds, & Science Communication](https://raleighwi.se/posts/stylegan-machine-minds-and-scicoms/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
