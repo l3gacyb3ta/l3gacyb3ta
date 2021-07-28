@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raleigh Wise</h1>
+<h1 align="center">Hi 👋, I'm Arcade Wise</h1>
 <h3 align="center">A 14 year old developer from the South</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l3gacyb3ta&theme=onedark&margin-w=15&margin-h=15&column=7" alt="l3gacyb3ta" /></a> </p>
