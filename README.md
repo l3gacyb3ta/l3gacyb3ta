@@ -12,16 +12,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l3gacyb3ta&label=Profile%20views&color=0e75b6&style=flat" alt="l3gacyb3ta" /> </p>
 
-
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Building a Next.js + Airtable singlelink clone.](https://raleighwi.se/posts/building-a-next.js-airtable-singlelink-clone/)
-- [Forestry, a git-based CMS](https://raleighwi.se/posts/forestry-a-git-based-cms/)
-- [Annoucing Super16](https://raleighwi.se/posts/super16/)
-- [Super16](https://raleighwi.se/projects/super16/)
-- [XKCD Explainer Button](https://raleighwi.se/projects/xkcd-button/)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/l3gacyb3ta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="l3gacyb3ta" height="30" width="40" /></a>
