@@ -12,11 +12,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l3gacyb3ta&label=Profile%20views&color=0e75b6&style=flat" alt="l3gacyb3ta" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/l3gacyb3ta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="l3gacyb3ta" height="30" width="40" /></a>
-<a href="https://twitter.com/l3gacyb3ta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="l3gacyb3ta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/l3gacyb3ta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="l3gacyb3ta" height="30" width="40" /></a>
 </p>
 
 Thanks to @willdoescode for the template!
